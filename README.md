@@ -18,6 +18,3 @@ Additionally, if variable `private_subnets` is set to true, it will create:
 
 This module is used in my own confguration. If you just want to create a VPC, go to [this GitHub repo](https://github.com/scholzj/aws-vpc).
 
-## Including as a module
-
-This repository should be included as a module into your own configuration. An example of how to include this can be found in the [examples](examples/) dir. 
