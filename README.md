@@ -16,5 +16,5 @@ Additionally, if variable `private_subnets` is set to true, it will create:
 * NAT with Elastic IP address in each availability zone
 * Private subnet in each availability zone with routing tables linking them to the NAT
 
-This module is used in my own confguration. If you just want to create a VPC, go to [this GitHub repo](https://github.com/scholzj/aws-vpc).
+
 
